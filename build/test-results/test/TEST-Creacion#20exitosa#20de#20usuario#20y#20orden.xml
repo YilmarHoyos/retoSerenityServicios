@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Creacion exitosa de usuario y orden" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-05T20:53:02" hostname="SQABOG-TGP2542" time="17.712">
+  <properties/>
+  <testcase name="Creacion de Orden" classname="Creacion exitosa de usuario y orden" time="17.712"/>
+  <system-out><![CDATA[{"code":200,"type":"unknown","message":"9222968140497209085"}
+{"code":200,"type":"unknown","message":"0"}
+{"code":200,"type":"unknown","message":"0"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
